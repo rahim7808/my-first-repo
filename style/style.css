@@ -1,0 +1,10 @@
+h2{
+    background: gray;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+p{
+    background: lightblue;
+    font-size: medium;
+}
